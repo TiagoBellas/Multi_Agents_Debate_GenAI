@@ -8,7 +8,7 @@
 > golden-dataset eval suite — production-shape engineering applied to a research
 > question.
 
-**🔗 Live demo:** [multi-agent-debate-2ty8uxwnqifhnrprgn3gcp.streamlit.app](https://multi-agent-debate-2ty8uxwnqifhnrprgn3gcp.streamlit.app/)
+**🔗 Live demo:** [https://madsgenai.streamlit.app/](https://madsgenai.streamlit.app/)
 
 [![Live demo](https://img.shields.io/badge/Live_demo-streamlit.app-FF4B4B?logo=streamlit&logoColor=white)](https://multi-agent-debate-2ty8uxwnqifhnrprgn3gcp.streamlit.app/)
 [![CI](https://github.com/diogovasconcelosmerca/multi-agent-debate/actions/workflows/ci.yml/badge.svg)](https://github.com/diogovasconcelosmerca/multi-agent-debate/actions/workflows/ci.yml)
