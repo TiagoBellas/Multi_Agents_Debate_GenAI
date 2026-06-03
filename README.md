@@ -40,7 +40,7 @@
   push; a golden-dataset eval suite catches behavioural drift locally.
 
 ```bash
-git clone https://github.com/diogovasconcelosmerca/multi-agent-debate.git
+git clone https://github.com/TiagoBellas/Multi_Agents_Debate_GenAI.git
 cd multi-agent-debate && pip install -r requirements.txt && streamlit run Home.py
 ```
 
@@ -174,7 +174,7 @@ There are **two ways** to use MADS:
 
 ```powershell
 # Windows
-git clone https://github.com/diogovasconcelosmerca/multi-agent-debate.git
+git clone https://github.com/TiagoBellas/Multi_Agents_Debate_GenAI.git
 cd multi-agent-debate
 python -m venv venv
 .\venv\Scripts\activate
@@ -184,7 +184,7 @@ pip install -r requirements.txt
 
 ```bash
 # macOS / Linux
-git clone https://github.com/diogovasconcelosmerca/multi-agent-debate.git
+git clone https://github.com/TiagoBellas/Multi_Agents_Debate_GenAI.git
 cd multi-agent-debate
 python -m venv venv
 source venv/bin/activate
