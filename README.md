@@ -165,7 +165,7 @@ There are **two ways** to use MADS:
 
 | | **Run it on your machine** | **Use the hosted version** |
 |---|---|---|
-| URL | `http://localhost:8501` | [streamlit.app live demo](https://multi-agent-debate-2ty8uxwnqifhnrprgn3gcp.streamlit.app/) |
+| URL | `http://localhost:8501` | [https://madsgenai.streamlit.app/](https://madsgenai.streamlit.app/) |
 | Backends | Ollama (local), Groq, Gemini | Groq, Gemini (Ollama can't reach your laptop) |
 | Cost | Free; private | Free tier on Groq/Gemini |
 | Setup | ~5 min one-off, then `./run.ps1` | None — open the link |
